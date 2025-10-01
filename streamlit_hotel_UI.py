@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # =========================
 # Load pipeline
 # =========================
-model_package = joblib.load("/Users/sulthanfatahillah/Downloads/Purwadhika/Coding/Final Project/pipe_xgbc_ros.joblib")
+model_package = joblib.load("pipe_xgbc_ros.joblib")
 model = model_package["model"]   # pipeline
 threshold = model_package["threshold"]
 

@@ -6,9 +6,9 @@
 ## Latar belakang dan Rumusan Masalah
 
 Pembatalan booking yang berlangsung secara terus-menerus dapat berdampak pada:  
-1. Hilangnya pendapatan karena kamar yang dibatalkan sulit terisi ulang di waktu dekat.  
-2.Inefisiensi operasional karena pihak hotel tetap menyiapkan kamar dan layanan untuk tamu yang akhirnya tidak datang.  
-3.Kesalahan strategi pemasaran jika tidak bisa membedakan tamu dengan risiko pembatalan tinggi atau rendah.  
+- Hilangnya pendapatan karena kamar yang dibatalkan sulit terisi ulang di waktu dekat.
+- Inefisiensi operasional karena pihak hotel tetap menyiapkan kamar dan layanan untuk tamu yang akhirnya tidak datang.
+- Kesalahan strategi pemasaran jika tidak bisa membedakan tamu dengan risiko pembatalan tinggi atau rendah.  
 
 Saat ini, hotel menggunakan strategi sederhana:  
 1. **Overbooking** — menerima booking melebihi kapasitas untuk mengantisipasi pembatalan.\

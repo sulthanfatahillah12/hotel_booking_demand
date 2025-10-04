@@ -41,20 +41,20 @@ Kedua strategi ini memiliki kelemahan:
 ---
 
 ## Tujuan
-###Tujuan Machine Learning
+### Tujuan Machine Learning
 Membangun model Machine Learning untuk **memprediksi apakah sebuah booking berisiko dibatalkan**, sehingga hotel dapat:
 - Mengidentifikasi **pelanggan mana saja yang berpotensi tinggi melakukan cancellation** sehingga dapat diberikan treatment khusus (seperti deposti lebih tinggi)
 
   
 
-###Tujuan Bisnis
+### Tujuan Bisnis
 Membuat perangkat untuk membantu stakeholder **mengambil tindakan bisnis terbaik untuk meminimalisir kerugian dari pembatalan** menggunakan predictive approach atau menggunakan data analytics approach seperti:
 
-####Predictive Approach
+#### Predictive Approach
 - Mengoptimalkan strategi first come first serve.  
 - Meminimalisir kehilangan pendapatan akibat kamar kosong.  
 - Meningkatkan efisiensi operasional hotel.
-####Data Analytics Approach
+#### Data Analytics Approach
 - Menentukan**strategi deposit type** yang akan diberikan kepada customer berdasarkan probabilitas customer melakukan booking cancellation.
 - Mengidentifikasi **tren transaksi bulanan hotel (2015 - 2017)** beserta variasinya pada periode **peak season, mid season, dan low season.**
 - Mengidentifikasi **jenis-jenis kamar yang perlu dikurangi atau ditambah** kapasitas kamarnya untuk memitigasi dampak overbooking.
@@ -307,3 +307,8 @@ Lead Time yang lama
 - Tamu dengan banyak special requests → bisa diprioritaskan, karena lebih serius.
 - Tamu dengan riwayat cancel tinggi → batasi fleksibilitas (misalnya non-refundable).
 - Harga tinggi (adr) → tawarkan opsi fleksibel seperti reschedule agar tidak langsung cancel.
+
+# Kontributor
+- Pradna Aqmaril Paramitha
+- Istyarahma Kansya Kusumastuti
+- Sulthanur Iman Fatahillah

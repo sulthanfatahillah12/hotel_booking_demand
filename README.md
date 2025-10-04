@@ -1,7 +1,7 @@
 # JCDS-2702 Final Project Beta Team
 
-Link Streamlit    : https://hotelbookingdemand-fjvezpfmcqzx9bsnspvcbg.streamlit.app
-Link Tableau      : https://public.tableau.com/app/profile/istyarahma.kusumastuti/viz/HotelBookingCancelationMonitoringDashboard/DashboardOK   
+- Link Streamlit    : https://hotelbookingdemand-fjvezpfmcqzx9bsnspvcbg.streamlit.app
+- Link Tableau      : https://public.tableau.com/app/profile/istyarahma.kusumastuti/viz/HotelBookingCancelationMonitoringDashboard/DashboardOK   
 
 ## Latar belakang dan Rumusan Masalah
 
